@@ -1,0 +1,10 @@
+Summary — column = Employee_age
+PANDAS:
+  mean   = 34.7048
+  median = 35.0
+  mode   = 18.0
+
+PURE PYTHON:
+  mean   = 34.7048
+  median = 35.0
+  mode   = 18.0
